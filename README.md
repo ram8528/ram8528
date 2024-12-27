@@ -58,7 +58,7 @@ An intelligent chatbot that navigates PDFs with hyperlinks to specific content.
 ## 📈 GitHub Stats  
 
 ![Ramdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ram8528&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/javascript/?username=your-username&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/javascript/?username=ram8528&layout=compact&theme=radical)  
 
 ---
 
