@@ -13,9 +13,9 @@
   - **VibeCraft**: A full-stack music streaming website  
 - 🌟 Building robust applications like **Personal Finance Management System** and **PDF Query Chatbot**  
 - 🏆 GeeksforGeeks Hackathon participant
-- See my prfile repositories ![Repos](https://github.com/ram8528?tab=repositories)
+- See my prfile repositories ![Repos](https://github.com/ram8528?tab=repositories )
 - Visit my GeeksForGeeks  ![GFG]([https://geeksforgeeks.org/skcoder123](https://www.geeksforgeeks.org/user/skcoder123/))
-
+![Image](https://media.geeksforgeeks.org/auth/profile/idf36h8pgy3ddxfxnatz)
 ---
 
 ## 🛠️ Tech Stack  
