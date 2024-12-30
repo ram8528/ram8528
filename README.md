@@ -12,7 +12,7 @@
 - 🌱 *Currently Learning:* Advanced MERN Stack, AI in Web Development  
 - 👨‍💻 *Projects:* [Mentor Connect](#), [VibeCraft](#), [PDF Query Bot](#)  
 - 💬 *Ask me about:* MERN Stack, React, Node.js, MongoDB, LLMs  
-- 📫 *Contact me:* [ramdeepkesharwani@gmail.com](mailto:ramdeepkesharwani@gmail.com)  
+- 📫 *Contact me:* [sk123hargarh@gmail.com](mailto:sk123hargarh@gmail.com)  
 - ⚡ *Fun Fact:* I can debug faster than I can cook!
 
 ---
@@ -72,16 +72,16 @@ A smart chatbot that extracts answers from PDF files with hyperlinks to referenc
 
 ### 💻 *Competitive Programming Profiles*
 <p align="left">
-    <a href="#" target="_blank">
+    <a href="https://geeksforgeeks.org/skcoder123" target="_blank">
         <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.leetcode.com/ram8528" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.leetcode.com/ram8528" target="_blank">
         <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.leetcode.com/ram8528" target="_blank">
         <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
     </a>
 </p>
@@ -90,10 +90,10 @@ A smart chatbot that extracts answers from PDF files with hyperlinks to referenc
 
 ### 🤝 *Connect with Me*
 <p align="left">
-    <a href="https://linkedin.com/in/ram8528" target="_blank">
+    <a href="https://linkedin.com/in/ramdeepkesharwani" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://instagram.com/ram8528" target="_blank">
+    <a href="https://instagram.com/itsRamdeep_irk" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="mailto:ramdeepkesharwani@gmail.com">
