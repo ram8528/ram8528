@@ -41,7 +41,6 @@
 
 ### 📈 *GitHub Stats*
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=ram8528&theme=radical" alt="GitHub Streak Stats" />
     <img src="https://github-readme-stats.vercel.app/api?username=ram8528&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram8528&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
@@ -91,30 +90,4 @@ A smart chatbot that extracts answers from PDF files with hyperlinks to referenc
 ### 🤝 *Connect with Me*
 <p align="left">
     <a href="https://linkedin.com/in/ramdeepkesharwani" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/itsRamdeep_irk" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="mailto:ramdeepkesharwani@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</p>
-
----
-
-### ✨ *Cool Animations*
-<p align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
-</p>
-
----
-
-### 🚀 *Fun Extras*
-- *Code Formatter:* [Prettier](https://prettier.io)  
-- *Interactive Diagrams:* [Mermaid](https://mermaid-js.github.io)  
-- *Markdown Extensions:* [MarkdownLint](https://github.com/DavidAnson/markdownlint)  
-
----
-
-<p align="center">⭐️ Let's collaborate and create amazing things together!</p>
+        <img src="https://img
