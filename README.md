@@ -47,6 +47,13 @@
 
 ---
 
+### 📅 *Yearly Contributions Heatmap*
+<p align="center">
+    ![GitHub Contributions](https://ghchart.rshang.in/ram8528)
+</p>
+
+---
+
 ### 📊 *Contribution Graph*
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ram8528&bg_color=1a1b27&color=9cf&line=5BCDEC&point=F1F0C0&hide_border=true" alt="Contribution Graph" />
