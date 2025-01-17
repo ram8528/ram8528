@@ -47,13 +47,14 @@
 
 ### 📊 *Contribution Graph*
 <p align="center">
-    <img src="[https://github-readme-activity-graph.vercel.app/graph?username=ram8528](https://github-readme-activity-graph.vercel.app/graph?username=ram8528)&bg_color=1a1b27&color=9cf&line=5BCDEC&point=F1F0C0&hide_border=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ram8528&bg_color=1a1b27&color=9cf&line=5BCDEC&point=F1F0C0&hide_border=true" alt="Contribution Graph" />
 </p>
 
+---
 
 ### 📅 *GeeksforGeeks Profile & Streak*
 <p align="center">
-    <a href="[https://www.geeksforgeeks.org/skcoder123](https://www.geeksforgeeks.org/user/skcoder123/)" target="_blank">
+    <a href="https://www.geeksforgeeks.org/user/skcoder123/" target="_blank">
         <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
     </a>
 </p>
