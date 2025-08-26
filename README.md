@@ -18,9 +18,7 @@
 ---
 
 ## 🏆 GitHub Achievements
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ram8528&theme=onedark&row=1&column=6" alt="GitHub Achievements" />
-</p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ram8528&theme=onedark&row=1&column=6" alt="GitHub Achievements" /> </p>
 
 ---
 
@@ -62,6 +60,8 @@
 
 ---
 
+--- ### 📅 *GeeksforGeeks Profile & Streak* <p align="center"> <a href="https://www.geeksforgeeks.org/user/skcoder123/" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" /> </a> </p> ---
+
 ## 🌟 Featured Projects
 
 ### 📽️ VideoTube  
@@ -98,25 +98,7 @@ A full-stack music streaming app with dynamic playlists and personalized recomme
 A smart chatbot that extracts answers from PDF files with hyperlinks to referenced pages.  
 🔗 [View Project](https://github.com/ram8528/pdf-query-bot) | 📦 [GitHub Repo](https://github.com/ram8528/pdf-query-bot)
 
----
-
-## 💻 Competitive Programming Profiles
-<p align="center">
-    <a href="https://geeksforgeeks.org/skcoder123" target="_blank">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/ram8528" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-    </a>
-    <a href="https://codechef.com/users/ram8528" target="_blank">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-    </a>
-    <a href="https://codeforces.com/profile/ram8528" target="_blank">
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-    </a>
-</p>
-
----
+--- ### 💻 *Competitive Programming Profiles* <p align="left"> <a href="https://geeksforgeeks.org/skcoder123" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /> </a> <a href="https://www.leetcode.com/ram8528" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> <a href="https://www.leetcode.com/ram8528" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> <a href="https://www.leetcode.com/ram8528" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> </p> ---
 
 ## 🤝 Connect with Me
 <p align="center">
