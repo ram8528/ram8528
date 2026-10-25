@@ -24,9 +24,18 @@
 
 ## 🏆 GitHub Achievements
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ram8528&theme=tokyonight&row=1&column=6" alt="GitHub Achievements" />
+
+<!-- GitHub Achievements -->
+<p align="center">
+  <a href="https://github.com/ram8528">
+    <img
+      src="https://trophy.ryglcloud.net/?username=ram8528&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+      alt="Ramdeep's GitHub Achievements"
+      width="100%"
+    />
+  </a>
 </p>
+
 
 ---
 
@@ -89,7 +98,13 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ram8528&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <a href="https://github.com/ram8528">
+    <img
+      src="https://github-readme-activity-graph-steel-two.vercel.app/graph?username=ram8528&theme=tokyo-night&hide_border=true&area=true"
+      alt="Ramdeep's GitHub Contribution Graph"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
