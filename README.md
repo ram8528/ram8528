@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramdeep Kesharwani
 
-### 🚀 Full Stack Developer | Laravel & Filament | MERN Stack | AI-Powered Development
+### 🚀 Full Stack Developer | Laravel • PHP • Vue.js • Filament 5 | Bagisto | MERN Stack | AI-Assisted Development
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ram8528&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,15 +12,21 @@
 
 ## 🔥 About Me
 
-- 💻 **Current Focus:** Laravel, PHP, Filament 5, Vue.js, and full-stack development
-- 🌱 **Currently Learning:** Advanced Laravel, software architecture, automated testing, and AI-powered development
-- 🤖 **Interests:** LLM integrations, AI-assisted coding, REST APIs, and workflow automation
-- 👨‍💻 **Projects:** Mini ERP, Mentor Connect, VibeCraft, PDF Query Bot, VideoTube, BlizzBazar, ChatKaro
-- 💬 **Ask me about:** Laravel, PHP, MERN Stack, React, Node.js, Filament, and REST APIs
-- 📫 **Reach me at:** [kesharwaniramdeep@gmail.com](mailto:kesharwaniramdeep@gmail.com)
+- 💻 **Current Focus:** Laravel, PHP, Vue.js, Filament 5, and Bagisto development
+- 🛒 **Professional Experience:** E-commerce customization, marketplace modules, ERP workflows, and backend development
+- 🎨 **Frontend Development:** Vue.js, React, JavaScript, TypeScript, HTML, CSS, and Tailwind CSS
+- ⚙️ **Backend Development:** Laravel, PHP, Node.js, Express.js, REST APIs, and database design
+- 🧩 **Admin Panels & ERP:** Filament 5, resource management, dashboards, widgets, forms, tables, and Eloquent relationships
+- 🧪 **Testing & Quality:** Pest PHP, automated testing, debugging, and maintainable code
+- 🚀 **Deployment & DevOps:** Git, GitHub, CI/CD workflows, and deployment practices
+- 🤖 **AI-Powered Development:** AI-assisted coding, debugging, LLM integrations, and workflow automation
+- 🌱 **Currently Learning:** Software architecture, advanced Laravel, Filament, and AI engineering
+- 👨‍💻 **Projects:** Mini ERP, Mentor Connect, VibeCraft, PDF Query Bot, VideoTube, BlizzBazar, and ChatKaro
+- 📫 **Email:** [kesharwaniramdeep@gmail.com](mailto:kesharwaniramdeep@gmail.com)
 - ⚡ **Fun Fact:** I can debug faster than I can cook!
 
 ---
+
 
 ## 🏆 GitHub Achievements
 
@@ -36,55 +42,77 @@
   </a>
 </p>
 
-
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages, Frameworks & Tools
 
-### 💻 Languages & Backend
+### 💻 Backend & PHP Ecosystem
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Filament-EBB304?style=for-the-badge&logo=filament&logoColor=black" alt="Filament" />
+  <img src="https://img.shields.io/badge/Bagisto-2D9CDB?style=for-the-badge&logoColor=white" alt="Bagisto" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white" alt="REST APIs" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### 🗄️ Database, APIs & Tools
+### 🛒 E-commerce, ERP & Admin Panels
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bagisto-EF4444?style=for-the-badge&logoColor=white" alt="Bagisto E-commerce" />
+  <img src="https://img.shields.io/badge/Filament_5-EBB304?style=for-the-badge&logoColor=black" alt="Filament 5" />
+  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent ORM" />
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+</p>
+
+### 🗄️ Databases & Backend Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🤖 AI & Development
+### 🧪 Testing, DevOps & Developer Tools
 
-- AI-assisted coding and debugging
+<p align="center">
+  <img src="https://img.shields.io/badge/Pest_PHP-F28D1A?style=for-the-badge&logoColor=white" alt="Pest PHP" />
+  <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+</p>
+
+### 🤖 AI & AI-Assisted Development
+
+- AI-assisted coding, refactoring, and debugging
 - LLM-powered applications and integrations
-- PDF question-answering systems
-- REST API integration and workflow automation
+- AI-driven developer productivity workflows
+- PDF processing and question-answering systems
+- API integrations and workflow automation
 
 ---
+
 
 ## 📈 GitHub Stats
 
