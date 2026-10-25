@@ -17,7 +17,7 @@
 - 🤖 **Interests:** LLM integrations, AI-assisted coding, REST APIs, and workflow automation
 - 👨‍💻 **Projects:** Mini ERP, Mentor Connect, VibeCraft, PDF Query Bot, VideoTube, BlizzBazar, ChatKaro
 - 💬 **Ask me about:** Laravel, PHP, MERN Stack, React, Node.js, Filament, and REST APIs
-- 📫 **Reach me at:** [ramdeepkesharwani@gmail.com](mailto:ramdeepkesharwani@gmail.com)
+- 📫 **Reach me at:** [kesharwaniramdeep@gmail.com](mailto:kesharwaniramdeep@gmail.com)
 - ⚡ **Fun Fact:** I can debug faster than I can cook!
 
 ---
