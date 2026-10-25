@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramdeep Kesharwani
 
-### 🚀 Full Stack Developer | Laravel • PHP • Vue.js • Filament 5 | Bagisto | MERN Stack | AI-Assisted Development
+### 🚀 Full Stack Developer | Laravel & Filament | MERN Stack | AI-Powered Development
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ram8528&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
